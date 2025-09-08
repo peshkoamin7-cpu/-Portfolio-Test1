@@ -6,3 +6,13 @@ li a{
 li a:hover{
     background-color: darkmagenta;
 }
+/* style home section*/
+#img1 {
+    border-radius: 100%;
+}
+#img1:hover{
+    box-shadow: 12px  -12px  darkmagenta;
+}
+#btn1 a:hover {
+         background-color: darkmagenta;
+}
