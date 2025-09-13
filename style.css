@@ -33,3 +33,10 @@ h1 {
 #procard:hover{
     transform: scale(1.1);
 }
+/* style contact section*/
+#btn2 button:hover{
+    background-color: darkmagenta;
+}
+form:hover{
+    background-color: lightblue;
+}
