@@ -29,3 +29,7 @@ h1 {
 #img2:hover{
     box-shadow: 12px  -12px  darkmagenta;
 }
+/* style project section*/
+#procard:hover{
+    transform: scale(1.1);
+}
